@@ -3,4 +3,4 @@ my name is ratnesh
 i am new to Github
 i work for intel
 i work as debug engineer in iotg 
-I am now working on open source code
+Earlier I use to work on windows platform and now have switched to linux open source. 
